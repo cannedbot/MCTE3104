@@ -6,5 +6,9 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 
 
 
-** IMPORTANT RULES **
+** IMPORTANT NOTES **
 . 
+
+
+
+![Course Outline](https://raw.githubusercontent.com/cannedbot/MCTE3104/master/images/contents.png)
