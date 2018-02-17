@@ -6,7 +6,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 
 
 
-** IMPORTANT NOTES **
+** IMPORTANT NOTES ** <br />
 . Lab sessions starts every Friday 8:30AM sharp until 12:00PM. <br />
 . We have made a whatsapp group for communication purposes where i'll make announcements so if you're not in it ask your friends to add you in it. <br />
 . All groups by right are given 2 boxes filled with experimental items for this course and it is loan based so don't lose any items in it! <br />
