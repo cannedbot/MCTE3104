@@ -15,8 +15,15 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 * Log books will remain at the lab so you are to **paste pre-lab assignments during lab session** and **_DO_ lab report during lab session** <br />
 
 
+### ** IMPORTANT SETUP ** <br />
+#### PC
+It is advisable that EACH group bring one laptop and have the following installed:
+* Arduino IDE <br />
+* Python 3.x <br />
 
-
+#### Raspberry Pi
+* Please make sure you have a Raspbian OS flashed into your microSD card [it is important you have this installed prior to coming as installation takes alot of time]
+* Go to setup/raspberrypi-setup-guide.ppt for guide to setup
 
 
 ### Activities BEFORE, DURING & AFTER Lab Session <br />
@@ -35,12 +42,6 @@ AFTER - <br />
 * <br /> 
 * <br />
 
-
-
-
-
-### ** IMPORTANT SETUP ** <br />
-* Arduino IDE <br />
 
 
 # Course Outline
