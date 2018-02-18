@@ -43,8 +43,7 @@ DURING - <br />
 * Report should be produced during lab session <br />
 
 AFTER - <br />
-* <br /> 
-* <br />
+* Prepare for next session :) <br /> 
 
 
 
