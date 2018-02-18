@@ -27,7 +27,7 @@ It is advisable that EACH group bring one laptop and have the following installe
 
 #### Raspberry Pi
 * Please make sure you have a Raspbian OS flashed into your microSD card [it is important you have this installed prior to coming as installation takes alot of time]
-* Go to setup/raspberrypi-setup-guide.ppt for guide to setup
+* Raspberry Pi official website has good guide for installing Raspbian OS image [(Follow guide)](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)<br /> 
 
 
 ### Activities BEFORE, DURING & AFTER Lab Session <br />
