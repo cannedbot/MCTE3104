@@ -8,6 +8,10 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 
 ### ** IMPORTANT NOTES ** <br />
 * Lab sessions starts every Friday 8:30AM sharp until 12:00PM. <br />
+< 08:30            ----> Arrival of students + take log book <br />
+08:30 - 09:30 AM ----> Experiment Briefing <br />
+09:30 - 11:45 AM ----> Hands-on Experiment <br />
+11:45 - 12:00 PM ----> Conclude experiment and return log book
 * We have made a whatsapp group for communication purposes where i'll make announcements so if you're not in it ask your friends to add you in it. <br />
 * All groups by right are given 2 boxes filled with experimental items for this course and it is loan based so don't lose any items in it! <br />
 * You all gotta wear the Green jacket and no open toe shoes allowed. NO EXCUSES HERE! <br />
@@ -18,7 +22,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 ### ** IMPORTANT SETUP ** <br />
 #### PC
 It is advisable that EACH group bring one laptop and have the following installed:
-* Arduino IDE <br />
+* Arduino IDE [(Follow guide)](https://github.com/cannedbot/MCTE3104/blob/master/setups/arduino-setup.pptx)<br /> 
 * Python 3.x <br />
 
 #### Raspberry Pi
@@ -39,8 +43,7 @@ DURING - <br />
 * Report should be produced during lab session <br />
 
 AFTER - <br />
-* <br /> 
-* <br />
+* Prepare for next session :) <br /> 
 
 
 
