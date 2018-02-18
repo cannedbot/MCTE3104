@@ -6,7 +6,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 
 
 ### ** Announcements ** <br />
-* **[For 23-02-18 Lab Session]** <br />
+**[For 23-02-18 Lab Session]** <br />
 * Bring your Log book with week 1 summary report as well as the pre-lab assignments for week 1 and week 2 <br />
 * Please make sure your Raspberry Pi microSD card is flashed with Raspbian OS image and make sure it works
 * If you find difficulty installing Raspbian OS contact one of the demonstrator to flash you the OS image.
