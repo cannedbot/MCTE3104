@@ -12,6 +12,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 08:30 - 09:30 AM ----> Experiment Briefing <br />
 09:30 - 11:45 AM ----> Hands-on Experiment <br />
 11:45 - 12:00 PM ----> Conclude experiment and return log book
+* [**DOWNLOAD LAB MANUAL HERE**](https://drive.google.com/file/d/1oKYSvW0rM5hjXg9IA9a5WZBNt6FMOih1/view?usp=sharing)<br />
 * We have made a whatsapp group for communication purposes where i'll make announcements so if you're not in it ask your friends to add you in it. <br />
 * All groups by right are given 2 boxes filled with experimental items for this course and it is loan based so don't lose any items in it! <br />
 * You all gotta wear the Green jacket and no open toe shoes allowed. NO EXCUSES HERE! <br />
@@ -49,6 +50,4 @@ AFTER - <br />
 
 # Course Outline
 ![Course Outline](https://raw.githubusercontent.com/cannedbot/MCTE3104/master/images/contents.png)
-
-[(**LAB MANUAL DOWNLOAD HERE**)](https://drive.google.com/file/d/1oKYSvW0rM5hjXg9IA9a5WZBNt6FMOih1/view?usp=sharing)<br />
 
