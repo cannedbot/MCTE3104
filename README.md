@@ -49,3 +49,6 @@ AFTER - <br />
 
 # Course Outline
 ![Course Outline](https://raw.githubusercontent.com/cannedbot/MCTE3104/master/images/contents.png)
+
+[(**LAB MANUAL DOWNLOAD HERE**)](https://drive.google.com/file/d/1oKYSvW0rM5hjXg9IA9a5WZBNt6FMOih1/view?usp=sharing)<br />
+
