@@ -18,7 +18,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 ### ** IMPORTANT SETUP ** <br />
 #### PC
 It is advisable that EACH group bring one laptop and have the following installed:
-* Arduino IDE <br />
+* Arduino IDE [Follow guide.](https://github.com/cannedbot/MCTE3104/blob/master/setups/arduino-setup.pptx)<br /> 
 * Python 3.x <br />
 
 #### Raspberry Pi
