@@ -10,7 +10,8 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 * Bring your Log book with week 1 summary report as well as the pre-lab assignments for week 1 and week 2 <br />
 * Please make sure your Raspberry Pi microSD card is flashed with Raspbian OS image and make sure it works
 * If you find difficulty installing Raspbian OS contact one of the demonstrator to flash you the OS image.
-* Bring a micro USB cable, and a power adapter to power up the Raspberry Pi~~ <br /><br />
+* Bring a micro USB cable, and a power adapter to power up the Raspberry Pi~~ 
+<br /><br />
 **[For 02-03-18 Lab Session]** <br />
 * As a take away homework using the Raspi control the servo arm interfaced by the Arduino. <br />
 * Sample codes to control LED is in the **Week 2** folder. <br />
