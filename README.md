@@ -13,7 +13,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 ~~* Bring a micro USB cable, and a power adapter to power up the Raspberry Pi.<br />~~ 
 <br />
 **[For 02-03-18 Lab Session]** <br />
-* As a take away homework using the Raspi control the servo arm interfaced by the Arduino. <br />
+* As a take away homework using the Raspi control the servo arm interfaced by the Arduino and produce a short report. <br />
 * Sample codes to control LED is in the **Week 2** folder. <br />
 
 
