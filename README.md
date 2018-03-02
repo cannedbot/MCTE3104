@@ -6,12 +6,15 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 
 
 ### ** Announcements ** <br />
-**[For 23-02-18 Lab Session]** <br />
-* Bring your Log book with week 1 summary report as well as the pre-lab assignments for week 1 and week 2 <br />
-* Please make sure your Raspberry Pi microSD card is flashed with Raspbian OS image and make sure it works
-* If you find difficulty installing Raspbian OS contact one of the demonstrator to flash you the OS image.
-* Bring a micro USB cable, and a power adapter to power up the Raspberry Pi
-
+~~**[For 23-02-18 Lab Session]** <br />~~
+~~* Bring your Log book with week 1 summary report as well as the pre-lab assignments for week 1 and week 2 <br />~~
+~~* Please make sure your Raspberry Pi microSD card is flashed with Raspbian OS image and make sure it works <br />~~
+~~* If you find difficulty installing Raspbian OS contact one of the demonstrator to flash you the OS image.<br />~~
+~~* Bring a micro USB cable, and a power adapter to power up the Raspberry Pi.<br />~~ 
+<br />
+**[For 02-03-18 Lab Session]** <br />
+* As a take away homework using the Raspi control the servo arm interfaced by the Arduino and produce a short report. <br />
+* Sample codes to control LED is in the **Week 2** folder. <br />
 
 
 ### ** IMPORTANT NOTES ** <br />
@@ -33,6 +36,8 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 It is advisable that EACH group bring one laptop and have the following installed:
 * Arduino IDE [(Follow guide)](https://github.com/cannedbot/MCTE3104/blob/master/setups/arduino-setup.pptx)<br /> 
 * Python 3.x [(Follow guide)](https://github.com/cannedbot/MCTE3104/blob/master/setups/python-setup.pptx)<br />
+* Nuvoton [(Installation files)](https://drive.google.com/file/d/1bCkpp1f1L1QbV6l4apYloUv5YRCqYEy3/view)<br />
+
 
 #### Raspberry Pi
 * Please make sure you have a Raspbian OS flashed into your microSD card [it is important you have this installed prior to coming as installation takes alot of time]
