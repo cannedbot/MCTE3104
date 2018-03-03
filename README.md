@@ -12,9 +12,12 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 ~~* If you find difficulty installing Raspbian OS contact one of the demonstrator to flash you the OS image.<br />~~
 ~~* Bring a micro USB cable, and a power adapter to power up the Raspberry Pi.<br />~~ 
 <br />
-**[For 02-03-18 Lab Session]** <br />
-* As a take away homework using the Raspi control the servo arm interfaced by the Arduino and produce a short report. <br />
-* Sample codes to control LED is in the **Week 2** folder. <br />
+~~**[For 02-03-18 Lab Session]** <br />~~
+~~* As a take away homework using the Raspi control the servo arm interfaced by the Arduino and produce a short report. <br />~~
+~~* Sample codes to control LED is in the **Week 2** folder. <br />~~
+<br />
+**[For 09-03-18 Lab Session]** <br />
+* Propose your title [(here.)](https://drive.google.com/file/d/1ExdHFXGZaykKH-P6-2lDsZ4OoEHvQHEF/view?usp=sharing)<br />
 
 
 ### ** IMPORTANT NOTES ** <br />
