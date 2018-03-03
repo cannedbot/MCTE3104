@@ -17,7 +17,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 ~~* Sample codes to control LED is in the **Week 2** folder. <br />~~
 <br />
 **[For 09-03-18 Lab Session]** <br />
-* Propose your title [(here.)](https://drive.google.com/file/d/1ExdHFXGZaykKH-P6-2lDsZ4OoEHvQHEF/view?usp=sharing)<br />
+* Propose your title [(here.)](https://docs.google.com/spreadsheets/d/1RLwMPYDe6qleg1WJpNCG0ezODI0qrN2E0L9I_M01D6M/edit?usp=sharing)<br />
 
 
 ### ** IMPORTANT NOTES ** <br />
